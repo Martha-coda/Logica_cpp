@@ -1,3 +1,6 @@
+// Programa que converte temperaturas entre Celsius e Fahrenheit.
+// Contém duas funções: uma para converter Celsius → Fahrenheit e outra para Fahrenheit → Celsius.
+
 #include <iostream>
 using namespace std;
 
