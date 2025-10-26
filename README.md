@@ -1,4 +1,4 @@
-# 🧮 Exercícios em C++ - FATEC
+# 🧮 Exercícios em C++ 
 
 Este repositório reúne alguns exercícios desenvolvidos em **C++**, com foco em lógica de programação e estruturas básicas como funções, classes, condicionais e laços.
 
