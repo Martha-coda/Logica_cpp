@@ -1,3 +1,6 @@
+// Programa que calcula o fatorial de um número inteiro informado pelo usuário.
+// Utiliza um laço de repetição 'for' para multiplicar os valores sequencialmente.
+
 #include <iostream>
 using namespace std;
 
