@@ -1,3 +1,7 @@
+// Programa simples de calculadora em C++
+// Permite ao usuário realizar soma, subtração, multiplicação e divisão entre dois números.
+// Desenvolvido para praticar o uso de classes, métodos e estrutura switch.
+
 #include <iostream>
 using namespace std;
 
