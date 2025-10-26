@@ -1,3 +1,7 @@
+// Programa que ordena um vetor de números e realiza uma busca binária.
+// Demonstra a implementação dos algoritmos de ordenação por seleção (Selection Sort)
+// e busca binária (Binary Search).
+
 #include <iostream>
 using namespace std;
 
