@@ -1,3 +1,6 @@
+// Programa que verifica se um ano informado é bissexto.
+// Exemplo de uso de operadores lógicos e condicionais em C++.
+
 #include <iostream>
 using namespace std;
 
