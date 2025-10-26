@@ -1,3 +1,7 @@
+// Programa que calcula o valor a pagar em um estacionamento.
+// O usuário informa o dia, horário de entrada e saída.
+// Exemplo de uso de classe e cálculo baseado em tempo.
+
 #include <iostream>
 using namespace std;
 
